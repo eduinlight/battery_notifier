@@ -1,7 +1,7 @@
 #interval in seconds to check battery level
 seconds_interval = 10
 [percents]
-#percent to use to show to show a warning message
+#percent to use to show a warning message
 warning = 10
-#percent to use to show to show a critical message
+#percent to use to show a critical message
 critical = 5
