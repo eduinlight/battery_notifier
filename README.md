@@ -13,7 +13,7 @@ cargo build --release
 ## Use with Xmonad
 Add this line to your configuration file.
 ```HS
-    spawnOnce "sleep 5 && $PATH_TO_REPO/target/release/battery-notifier"
+spawnOnce "sleep 5 && $PATH_TO_REPO/target/release/battery-notifier"
 ```
 Run this command after start notification daemon. **sleep 5** is to wait 5 secons for the notification daemon to be ready.
 
