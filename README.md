@@ -1,4 +1,4 @@
-# Battery Notify
+# Battery Notifier
 - Author: Eduin Garcia Cordero
 - Linkedin: [https://www.linkedin.com/in/eduinlight/](https://www.linkedin.com/in/eduinlight/)
 - Github: [https://github.com/eduinlight](https://github.com/eduinlight)
